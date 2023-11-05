@@ -2137,8 +2137,7 @@ main {
   }
 
 .section-features {
-      background-color: #331d4d;
+  background: linear-gradient(135deg, #790C7E, #72FFFF, #F226CD);
 }
-  
   
   
